@@ -1,3 +1,6 @@
-@charset "euc-jp";
+@charset "utf-8";
 /* CSS Document */
 
+.aaa{
+	margin-bottom:10px;
+}
